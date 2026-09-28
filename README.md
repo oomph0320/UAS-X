@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-ROS%20%2F%20Embedded%20%2F%20Linux-green.svg)]()
 [![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen.svg)]()
 
-> UAS 1.0 是一个面向无人自主系统（无人机 / 无人车 / 机器人）的控制、感知与决策平台，旨在提供稳定高效的底层驱动控制与上层自主导航、规划能力的软硬件协同解决方案。
+> UAS-X 是一个面向无人自主系统（无人机 / 无人车 / 机器人）的控制、感知与决策平台，旨在提供稳定高效的底层驱动控制与上层自主导航、规划能力的软硬件协同解决方案。
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 项目简介
 
-**UAS 1.0**（Unmanned Autonomous System 1.0）聚焦于无人系统的自主化任务执行。系统整合了动力学控制、多传感器数据融合（IMU、GNSS、激光雷达/视觉）、路径规划与避障算法，适用于科研实验验证及工业级自主作业场景。
+**UAS-x**（Unmanned Autonomous System x）聚焦于无人系统的自主化任务执行。系统整合了动力学控制、多传感器数据融合（IMU、GNSS、激光雷达/视觉）、路径规划与避障算法，适用于科研实验验证及工业级自主作业场景。
 
 ---
 
