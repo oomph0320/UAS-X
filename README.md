@@ -1,4 +1,4 @@
-# UAS 1.0 (Unmanned Autonomous System / 无人自主系统)
+# UAS X (Unmanned Autonomous System / 无人自主系统)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-ROS%20%2F%20Embedded%20%2F%20Linux-green.svg)]()
@@ -168,3 +168,8 @@ UAS1.0/
 ## 许可证
 
 本项目采用 [MIT License](LICENSE) 开源许可。
+
+## 实际使用
+
+请将UAS-final.zip直接上传到https://app.netlify.com/，创建webapp即可使用。
+补充题库请自己在“补充题库文件夹”下载并手动上传到webapp。
